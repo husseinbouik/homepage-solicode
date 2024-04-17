@@ -1,0 +1,80 @@
+@media (max-width: 400px) {
+  .programs-icons {
+    width: 244px;
+    height: 200px;
+  }
+}
+
+@media (max-width: 400px) {
+  .programs-icons {
+    width: 244px;
+    height: 200px;
+  }
+}
+
+@media (max-width: 400px) {
+  .programs-icons {
+    width: 244px;
+    height: 200px;
+  }
+}
+
+@media (max-width: 400px) {
+  .programs-icons {
+    width: 244px;
+    height: 200px;
+  }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1200px) {
+  .internship-icon {
+    width: 371px;
+    height: 278px;
+  }
+}
+
+@media screen and (min-width: 300px) and (max-width: 760px) {
+  .internship-icon {
+    width: 272px;
+    height: 173px;
+  }
+}
+
+@media screen and (min-width: 760px) and (max-width: 1000px) {
+  .internship-icon {
+    width: 286px;
+    height: 227px;
+  }
+}
+
+@media screen and (min-width: 360px) and (max-width: 770px) {
+  .video-col {
+    float: initial;
+    margin-bottom: 41px;
+    width: 93%;
+  }
+}
+
+.internship-col-img {
+  width: 50%;
+}
+
+@media screen and (min-width: 300px) and (max-width: 760px) {
+  .internship-col-img {
+    width: auto;
+  }
+}
+
+@media screen and (min-width: 300px) and (max-width: 600px) {
+  .internship-icon {
+    width: 344px;
+    height: 202px;
+  }
+}
+
+@media screen and (min-width: 300px) and (max-width: 600px) {
+  .internship-p {
+    font-size: 25px;
+  }
+}
+
